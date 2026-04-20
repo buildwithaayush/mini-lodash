@@ -1,0 +1,13 @@
+{
+  "name": "mini-lodash",
+  "version": "1.0.0",
+  "description": "A utility library built from scratch to deeply understand JavaScript fundamentals",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node tests/test.js"
+  },
+  "keywords": ["utility", "functional-programming", "closures", "higher-order-functions"],
+  "author": "Ayush",
+  "license": "MIT",
+  "type": "commonjs"
+}
